@@ -10,6 +10,7 @@ public class Classtow {
     public void clstwo(){
 
         System.out.println("clstwo");
+        System.out.println("hai");
 
     }
 
